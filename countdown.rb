@@ -1,5 +1,9 @@
 def countdown
   seconds=10
-  loop do
+  while seconds > 0
+   puts "#{seconds}"
+   seconds -= 1
+ end
+end 
+  
     
-end
