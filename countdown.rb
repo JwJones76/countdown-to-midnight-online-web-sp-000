@@ -5,6 +5,8 @@ def countdown(number)
     puts "#{number} SENCONDS!"
     number -= 1
  end
-end 
+end
+
+countdown
   
     
