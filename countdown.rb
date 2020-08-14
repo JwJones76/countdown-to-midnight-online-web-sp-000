@@ -2,7 +2,7 @@ number = 10
 
 def countdown(number)
   while number > 0
-    puts "#{number} SENCONDS!"
+    puts "#{number} SENCOND(S)!"
     number -= 1
     
  end
